@@ -1,5 +1,5 @@
 ---
-title: Prepare for Ludicrous Speed
+title: The fastest way to load pages in WordPress.
 ---
 
 
