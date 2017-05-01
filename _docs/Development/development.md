@@ -1,6 +1,5 @@
 ---
 title: Kontributor dan Pengembang
-category: Development
 order: 3
 ---
 
