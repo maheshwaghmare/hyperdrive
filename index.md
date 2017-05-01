@@ -24,4 +24,4 @@ WordCamp Ubud 2017 plugin team : jhabdas, nielslange, omrobbie, shantiscript, ar
 
 ### 1.0.0-beta ###
 
-\* Initial beta pre-release for testing.
+* Initial beta pre-release for testing.
