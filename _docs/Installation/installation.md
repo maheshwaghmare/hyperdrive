@@ -1,6 +1,5 @@
 ---
 title: Instalasi
-category: Devices
 order: 2
 ---
 
