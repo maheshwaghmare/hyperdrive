@@ -5,13 +5,13 @@ title: Hyperdrive
 
 ![](/uploads/logo.png)
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/). **Edition** is perfect for documenting your product, application or service. It's populated with example content to give you some ideas.
+### Deskripsi
 
-ChatApp is a fictional chat application for sending messages and media to others. Teams and friend groups would use ChatApp to stay up to date if it existed.
+Hyperdrive adalah sebuah plugin WordPress yang memberikan browser akses ke teknik optimasi performansi yang disebut [Fetch Injection](https://hackcabin.com/post/managing-async-dependencies-javascript/), teknik yang memungkinkan sebuah website dan themes melakukan download resource seperti javascript dan css secara asynchronous dan paralel bersamaan dengan urutan eksekusi task.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+Menggunakan teknik Fetch Injection akan mengurangi *latency* yang dirasakan selama memuat halaman website bila dibandingkan dengan metode tradisional dan telah terbukti meningkatkan waktu render halaman sebesar 200-300% untuk *new visitor*. Sedangkan untuk *returning visitor*&nbsp;mendapatkan performansi yang lebih baik lagi berkat teknik caching browser modern seperti *Service Workers* yang biasa digunakan dalam *Progressive Web Apps*.
 
-### Getting Started
+### Instalasi
 
 Getting a message sent is quick and easy with ChatApp:
 
@@ -19,7 +19,7 @@ Getting a message sent is quick and easy with ChatApp:
 2. Add your friends from their email addresses
 3. Type a message or send a photo
 
-> Feel free to send us a message at [&#102;&#101;&#101;&#100;&#098;&#097;&#099;&#107;&#064;&#101;&#120;&#097;&#109;&#112;&#108;&#101;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#102;&#101;&#101;&#100;&#098;&#097;&#099;&#107;&#064;&#101;&#120;&#097;&#109;&#112;&#108;&#101;&#046;&#099;&#111;&#109;) with your feedback.
+> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
 
 ### Features
 
