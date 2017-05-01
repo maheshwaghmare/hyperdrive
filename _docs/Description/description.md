@@ -1,6 +1,5 @@
 ---
 title: Deskripsi
-category: Contact Syncing
 order: 1
 ---
 
