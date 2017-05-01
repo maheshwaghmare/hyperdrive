@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Hyperdrive
 ---
 
 
@@ -19,7 +19,7 @@ Getting a message sent is quick and easy with ChatApp:
 2. Add your friends from their email addresses
 3. Type a message or send a photo
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+> Feel free to send us a message at [&#102;&#101;&#101;&#100;&#098;&#097;&#099;&#107;&#064;&#101;&#120;&#097;&#109;&#112;&#108;&#101;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#102;&#101;&#101;&#100;&#098;&#097;&#099;&#107;&#064;&#101;&#120;&#097;&#109;&#112;&#108;&#101;&#046;&#099;&#111;&#109;) with your feedback.
 
 ### Features
 
