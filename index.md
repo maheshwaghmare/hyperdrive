@@ -1,5 +1,5 @@
 ---
-title: Hyperdrive
+title: The fastest way to load pages in WordPress.
 ---
 
 
