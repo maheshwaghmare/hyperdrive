@@ -1,6 +1,6 @@
 ---
 title: Kontributor dan Pengembang
-category: Media
+category: Development
 order: 3
 ---
 
