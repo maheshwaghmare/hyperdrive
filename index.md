@@ -19,9 +19,3 @@ Menggunakan teknik Fetch Injection akan mengurangi *latency* yang dirasakan sela
 ### Kontributor dan Pengembang
 
 WordCamp Ubud 2017 plugin team : jhabdas, nielslange, omrobbie, shantiscript, ariffsetiawan, ervannur, ipututoya, auraanar, 3hartanto, ervannur, joedewaweb
-
-### Changelog
-
-### 1.0.0-beta ###
-
-* Initial beta pre-release for testing.
