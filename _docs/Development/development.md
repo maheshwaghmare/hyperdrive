@@ -4,4 +4,6 @@ order: 3
 ---
 
 
-WordCamp Ubud 2017 plugin team : jhabdas, nielslange, omrobbie, shantiscript, ariffsetiawan, ervannur, ipututoya, auraanar, 3hartanto, ervannur, joedewaweb
+Plugin ini tidak akan ada tanpa adanya WordCamp Ubud 2017, terutama adanya Contributor Day. Diawali dengan paparan Josh Habdas tentang fungsi Fetch Injection yang kemudian dikembangkan hingga menjadi plugin WordPress. Terima kasih kepada semua pihak yang membuat WordCamp dan Contributor Day dapat terlaksana.
+
+WordCamp Ubud 2017 Plugin Team : jhabdas, nielslange, omrobbie, shantiscript, ariffsetiawan, ervannur, ipututoya, auraanar, 3hartanto, ervannur, joedewaweb
