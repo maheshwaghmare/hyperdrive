@@ -13,7 +13,7 @@ Menggunakan teknik Fetch Injection akan mengurangi *latency* yang dirasakan sela
 
 ### Instalasi
 
-1. Letakkan folder 'hyperdrive' di dalam folder `/wp-content/plugins/`
+1. Letakkan folder `hyperdrive` di dalam folder `/wp-content/plugins/`
 2. Aktifkan plugin dari WordPress Admin dashboard
 
 ### Kontributor dan Pengembang
