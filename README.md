@@ -7,7 +7,7 @@
 # Documentation
 
 Hyperdrive docs available online at:
-https://clean-louse.cloudvent.net/
+https://hyperdrive.habd.as
 
 # Todo before 1.0.0 release
 
