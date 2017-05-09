@@ -1,6 +1,6 @@
 # Hyperdrive Plugin for WordPress
 
-Product documentation for Hyperdrive. Browse through the docs online at [hyperdrive.wp-id.org](https://hyperdrive.wp-id.org). Documentation template originally forked from the Edition template by CloudCannon.
+Product documentation for Hyperdrive. Browse through the docs online at [hyperdrive.habd.as](http://hyperdrive.habd.as/). Documentation template originally forked from the Edition template by CloudCannon.
 
 # Edition
 
