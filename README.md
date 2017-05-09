@@ -1,6 +1,10 @@
+# Hyperdrive Plugin for WordPress
+
+Product documentation for Hyperdrive. Browse through the docs online at [hyperdrive.wp-id.org](https://hyperdrive.wp-id.org). Documentation template originally forked from the Edition template by CloudCannon.
+
 # Edition
 
-Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
+Product documentation template for Hyperdrive Plugin for WordPress. Browse through it online at [hyperdrive.habd.as](https://clean-louse.cloudvent.net/).
 Start documenting your product, application, service or website with this configurable theme.
 
 ![Edition template screenshot](images/_screenshot.png)
