@@ -7,7 +7,7 @@
 # Documentation
 
 Hyperdrive docs available online at:
-https://hyperdrive.habd.as
+http://hyperdrive.habd.as
 
 # Todo before 1.0.0 release
 
