@@ -11,6 +11,13 @@ Hyperdrive adalah sebuah plugin WordPress yang memberikan [*supporting browser*]
 
 Menggunakan teknik Fetch Injection akan mengurangi *latency* yang dirasakan selama memuat halaman website bila dibandingkan dengan metode tradisional dan telah terbukti meningkatkan waktu render halaman sebesar 200-300% untuk *new visitor*. Sedangkan untuk *returning visitor*&nbsp;mendapatkan performansi yang lebih baik lagi berkat teknik caching browser modern seperti *Service Workers* yang biasa digunakan dalam *Progressive Web Apps*.
 
+##### Kompatibilitas
+{: .present-before-paste}
+
+* Themes yang memuat *script* eksternal tanpa menggunakan *best practice* untuk performansi Web mungkin tidak didukung sepenuhnya oleh Hyperdrive.
+
+* Jika terdapat masalah kompatibilitas dengan *themes* atau *plugin* yang digunakan, maka disarankan untuk menghubungi pengelola *themes* atau *plugin*&nbsp;dan meminta mereka untuk melakukan optimasi pada *script* yang digunakan.
+
 ### Instalasi
 
 1. Letakkan folder `hyperdrive` di dalam folder `/wp-content/plugins/`
