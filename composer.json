@@ -1,0 +1,16 @@
+{
+  "name": "comfusion/hyperdrive",
+  "description": "The fastest way to load pages in WordPress.",
+  "keywords": ["wordpress", "plugin", "hyperdrive"],
+  "homepage": "http://hyperdrive.habd.as",
+  "license": "GPL-3.0",
+  "authors": [{
+    "name": "Josh Habdas",
+    "email": "josh@habd.as",
+    "homepage": "https://habd.as"
+  }],
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1.3"
+  }
+}
