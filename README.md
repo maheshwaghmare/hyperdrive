@@ -7,7 +7,7 @@
 # Documentation
 
 Hyperdrive docs available online at:
-http://hyperdrive.wp-id.org/
+http://hyperdrive.habd.as/
 
 # Todo before 1.0.0 release
 
