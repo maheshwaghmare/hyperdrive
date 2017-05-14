@@ -2,17 +2,18 @@
 /**
  * Putting WordPress into Hyperdrive.
  *
- * @package     hyperdrive
+ * @package     Hyperdrive
  * @author      Josh Habdas
  * @license     GPL-3.0 or later
  *
  * @wordpress-plugin
  * Plugin Name: Hyperdrive
  * Plugin URI:  https://github.com/comfusion/hyperdrive
- * Author URI:  https://habd.as
  * Description: The fastest way to load pages in WordPress.
- * Version:     1.0.0-beta.3
  * Author:      Josh Habdas
+ * Author URI:  https://habd.as
+ * Text Domain: hyperdrive
+ * Version:     1.0.0-beta.3
  * License:     GPL-3.0 or later
  *
  * Hyperdrive. The fastest way to load pages in WordPress.
