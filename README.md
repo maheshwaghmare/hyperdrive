@@ -5,6 +5,8 @@
 ![Hyperdrive Plugin for WordPress](https://github.com/comfusion/hyperdrive/blob/master/logo.png)
 
 [![Build Status](https://travis-ci.org/comfusion/hyperdrive.svg?branch=master)](https://travis-ci.org/comfusion/hyperdrive)
+[![Code Climate](https://codeclimate.com/github/comfusion/hyperdrive/badges/gpa.svg)](https://codeclimate.com/github/comfusion/hyperdrive)
+[![Test Coverage](https://codeclimate.com/github/comfusion/hyperdrive/badges/coverage.svg)](https://codeclimate.com/github/comfusion/hyperdrive)
 
 # Installation
 
