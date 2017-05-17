@@ -6,7 +6,7 @@
 
 [![Packagist](https://img.shields.io/packagist/v/comfusion/hyperdrive.svg?style=flat-square)](https://packagist.org/packages/comfusion/hyperdrive)
 [![PHP](https://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg?style=flat-square)](https://php.net/)
-[![WordPress](https://img.shields.io/badge/WordPress-%3E%3D%204.6-0087BE.svg?style=flat-square)](https://wordpress.com/)
+[![WordPress](https://img.shields.io/badge/wordpress-%3E%3D%204.6-0087BE.svg?style=flat-square)](https://wordpress.com/)
 [![Travis](https://img.shields.io/travis/comfusion/hyperdrive.svg?style=flat-square)](https://travis-ci.org/comfusion/hyperdrive)
 [![Code Climate](https://img.shields.io/codeclimate/github/comfusion/hyperdrive.svg?style=flat-square)](https://codeclimate.com/github/comfusion/hyperdrive)
 [![Test Coverage](https://img.shields.io/codeclimate/coverage/github/comfusion/hyperdrive.svg?style=flat-square)](https://codeclimate.com/github/comfusion/hyperdrive)
