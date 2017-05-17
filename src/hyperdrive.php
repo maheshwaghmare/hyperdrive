@@ -10,11 +10,12 @@
  * Plugin Name:     Hyperdrive
  * Plugin URI:      https://github.com/comfusion/hyperdrive
  * Description:     The fastest way to load pages in WordPress.
+ * Version:         1.0.0-beta.3
  * Author:          Josh Habdas
  * Author URI:      https://habd.as
  * Text Domain:     hyperdrive
- * Version:         1.0.0-beta.3
  * License:         AGPLv3+
+ * License URI:     https://www.gnu.org/licenses/agpl-3.0.html
  *
  * Hyperdrive - The fastest way to load pages in WordPress.
  * Copyright (C) 2017  Josh Habdas
