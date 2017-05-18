@@ -5,7 +5,7 @@
  * @package     Hyperdrive
  * @author      Josh Habdas
  * @since       1.0.0
- * @license     AGPLv3+
+ * @license     AGPL-3.0
  *
  * Plugin Name:     Hyperdrive
  * Plugin URI:      https://github.com/comfusion/hyperdrive
@@ -14,7 +14,7 @@
  * Author:          Josh Habdas
  * Author URI:      https://habd.as
  * Text Domain:     hyperdrive
- * License:         AGPLv3+
+ * License:         AGPL-3.0
  * License URI:     https://choosealicense.com/licenses/agpl-3.0/
  *
  * Hyperdrive - The fastest way to load pages in WordPress.
