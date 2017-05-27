@@ -3,7 +3,7 @@
   "description": "The fastest way to load pages in WordPress.",
   "keywords": ["wordpress", "wp", "performance", "plugin", "hyperdrive"],
   "homepage": "http://hyperdrive.habd.as",
-  "license": "AGPL-3.0",
+  "license": "AGPL-3.0 or any later version",
   "authors": [{
     "name": "Josh Habdas",
     "email": "josh@habd.as",
