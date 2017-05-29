@@ -22,7 +22,7 @@
  *
  * You should have received a copy of the GNU Affero General Public License
  * along with Hyperdrive.  If not, see
- * https://github.com/comfusion/hyperdrive/blob/master/COPYING.
+ * <https://github.com/comfusion/hyperdrive/blob/master/COPYING>.
  */
 
 namespace hyperdrive\spec;
