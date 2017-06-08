@@ -4,8 +4,8 @@ Contributors: nielslange, eirastudios, omrobbie, shantiscript, ariffsetiawan, er
 Donate link: https://me.and.co/comfusionllc/?pay=15.00&for=Hyperdrive
 Tags: performance, speed, async, javascript, fetch
 Requires at least: 4.6
-Tested up to: 4.8-beta.2
-Stable tag: 1.0.0-beta.5
+Tested up to: 4.8
+Stable tag: trunk
 License: AGPL-3.0 or any later version
 License URI: https://github.com/comfusion/hyperdrive/blob/master/COPYING
 
@@ -52,6 +52,11 @@ If you experience any issues with automatic installation, or would prefer to ins
 Please visit [the official repository](https://github.com/comfusion/hyperdrive) on GitHub for contributing guidelines.
 
 == Changelog ==
+
+**1.0.0-beta.6**
+
+* Removes older scripts no longer useful, increasing speed.
+* Fixes a bug where some scripts were loading twice.
 
 **1.0.0-beta.5**
 
