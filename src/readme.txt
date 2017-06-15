@@ -53,9 +53,13 @@ Please visit [the official repository](https://github.com/comfusion/hyperdrive) 
 
 == Changelog ==
 
+**1.0.0-beta.9**
+
+* Removes feature allowing styles to load asynchronously (for now)
+
 **1.0.0-beta.8**
 
-* Adds a feature allowing both scripts and styles to load asynchronously
+* Adds feature allowing styles to load asynchronously
 
 **1.0.0-beta.7**
 
