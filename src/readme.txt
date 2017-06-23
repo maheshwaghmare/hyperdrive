@@ -1,13 +1,10 @@
 === Hyperdrive ===
 
-Author: jhabdas
-Author URI: https://habd.as
 Contributors: nielslange, eirastudios, ariffsetiawan
 Donate link: https://go.habd.as/gotcoin
 Tags: performance, speed, async, javascript, seo
 Requires at least: 4.6
 Tested up to: 4.8
-Version: 1.0.0-beta.9
 Stable tag: trunk
 License: AGPL-3.0 or any later version
 License URI: https://github.com/comfusion/hyperdrive/blob/master/COPYING
